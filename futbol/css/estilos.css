@@ -1,0 +1,42 @@
+.bbc {
+    background-color: #00CCA0;
+}
+
+.pl {
+    color: #ffffff; 
+    font-size: 20px;
+}
+
+.bc {
+    background-color: #00CCA0;
+}
+
+.bt {
+    background-color: #00CCA0;
+    border: none;
+    width: 150px;
+    height: 150px;
+    color: white;
+    cursor: pointer;
+}
+
+/* Darker background on mouse-over */
+.bt:hover {
+    background-color: #4169e1;    
+}
+
+.btcs:hover {
+    background-color: RoyalBlue;
+    color: #ffffff;
+    border-color: RoyalBlue;
+}
+
+.ebc {
+    background-color: #00CCA0;
+    color: #ffffff;
+}
+
+.btabla {
+    border-color: RoyalBlue;
+}
+
